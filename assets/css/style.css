@@ -525,6 +525,11 @@ section {
 }
 
 @media (max-width: 667px) {
+  
+  .about {
+    padding-left: 5px;
+  }
+  
   .about .image img {
     max-width: 100%;
   }
